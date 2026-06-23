@@ -70,6 +70,7 @@ Dekisuki is a cute tiny lil robot that sits at your desk looks at you shows emot
 </div>
 
 This is a Pcb project you will find the pcb under pcb section in the repo or if you want to directly order use the gerber ffile under prodcution and then order components from link in amazon that is attached to the BOM then solder the compnents flash the firmware and Njoyy
+THE PCB AND SCHEMATICS HAVE BEEN UPLOADED IN THE EASY EDA FOLDER AS JSON USE IT IF YOU ARE WILLING TO 🤟
 
 <div align="center">
 
