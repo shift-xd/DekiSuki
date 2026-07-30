@@ -1,30 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=64&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=1200&height=120&lines=DEKISUKI" />
+<img width="1328" height="753" alt="Screenshot From 2026-05-23 21-23-27" src="https://github.com/user-attachments/assets/ca8f0583-5991-4a4d-a82e-83d14a39241f" />
+
+# DEKISUKI
 
 </div>
 
 Dekisuki is a cute tiny lil robot that sits at your desk looks at you shows emotion which you can pet and also you can set alarms reminders and stuff too it has a inbuilt buzzer and a capacitive touch button with a gyroscope too so you can movee it , shake it , use it as a pomodoro timer what everr you like its crazy stuff lmao !
 
+## Table of Contents
+
+- [Softwares](#softwares)
+- [How To Make](#how-to-make)
+- [Firmware](#firmware)
+- [PCB && Schematics](#pcb--schematics)
+- [OSHWLab Link](#oshwlab-link)
+
+---
+
+## Softwares
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=FULL+IMAGE+RENDER" />
-
-</div>
-
-<div align="center">
-
-<img width="1328" height="753" alt="Screenshot From 2026-05-23 21-23-27" src="https://github.com/user-attachments/assets/ca8f0583-5991-4a4d-a82e-83d14a39241f" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=SOFTWARES" />
-
-</div>
-
-<div style="display:flex; flex-wrap:wrap; gap:18px; align-items:center;">
 
   <a href="https://easyeda.com/" target="_blank" style="text-decoration:none;">
     <img 
@@ -63,22 +59,13 @@ Dekisuki is a cute tiny lil robot that sits at your desk looks at you shows emot
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=HOW+TO+MAKE" />
-
-</div>
+## How To Make
 
 This is a Pcb project you will find the pcb under pcb section in the repo or if you want to directly order use the gerber ffile under prodcution and then order components from link in amazon that is attached to the BOM then solder the compnents flash the firmware and Njoyy
 
-
 THE PCB AND SCHEMATICS HAVE BEEN UPLOADED IN THE EASY EDA FOLDER AS JSON USE IT IF YOU ARE WILLING TO 🤟
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=FIRMWARE" />
-
-</div>
+## Firmware
 
 There is a firmware.bin file in the firmware/software folder you can copy / download it and follow the instructions below :) 
 
@@ -88,17 +75,9 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 
 </div>
 
-<div align="center">
+## PCB && Schematics
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=PCB+%26%26+SCHEMATICS" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=30&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=IMAGE+OF+PCB" />
-
-</div>
+### Image Of PCB
 
 <div align="center">
 
@@ -106,14 +85,16 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=30&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=IMAGE+OF+SCHEMATIC" />
-
-</div>
+### Image Of Schematic
 
 <div align="center">
 
 <img width="740" height="343" alt="Screenshot From 2026-05-25 01-16-37" src="https://github.com/user-attachments/assets/751812d3-726c-4b30-afcb-8a45b2bad6cc" />
 
 </div>
+
+## OSHWLab Link
+
+https://oshwlab.com/lastsurvivor857/project_rsegnmxp
+
+> **Note:** The .epro files are in the repo under production.
