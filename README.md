@@ -2,7 +2,7 @@
 
 <img width="1328" height="753" alt="Screenshot From 2026-05-23 21-23-27" src="https://github.com/user-attachments/assets/ca8f0583-5991-4a4d-a82e-83d14a39241f" />
 
-# DEKISUKI
+# **DEKISUKI**
 
 </div>
 
